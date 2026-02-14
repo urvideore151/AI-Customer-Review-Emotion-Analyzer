@@ -55,3 +55,12 @@ BiLSTM captures context from both forward and backward directions, improving pre
 - NumPy
 - Pandas
 - Gradio
+
+# Model File Notice
+
+Due to GitHub file size limitations, the trained model (.h5) is not included in this repository.
+
+To generate the model:
+1. Run the training notebook (Emotion_Analysis.ipynb).
+2. The model and label encoder will be saved locally.
+3. Place them inside the `models/` folder before running app.py.
