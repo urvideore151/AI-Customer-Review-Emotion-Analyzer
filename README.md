@@ -45,17 +45,6 @@ BiLSTM captures context from both forward and backward directions, improving pre
 - Pandas
 - Gradio
 
-
-# Technologies Used
-
-- Python
-- TensorFlow / Keras
-- Hugging Face Datasets
-- NLTK
-- NumPy
-- Pandas
-- Gradio
-
 # Model File Notice
 
 Due to GitHub file size limitations, the trained model (.h5) is not included in this repository.
